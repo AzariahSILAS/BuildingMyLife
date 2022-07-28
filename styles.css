@@ -1,16 +1,14 @@
 .main-section{
-    width: 100%;
+    width: 360px;
     background-color: #B29D84;
-    margin: 0px auto;
-    padding: 29px;
+    margin: auto;
 
 }
 .block{
     background-color: #D9D9D9;
-    width: 100%;
+    width: 339.45px;
     margin-left: auto;
     margin-right: auto;
-    
     
 
 }
